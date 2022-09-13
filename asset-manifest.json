@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-appsearch-compo-viewer.dev/static/css/main.a41da17e.css",
-    "main.js": "/react-appsearch-compo-viewer.dev/static/js/main.a4c5ba6f.js",
+    "main.css": "/react-appsearch-compo-viewer.dev/static/css/main.ec28b302.css",
+    "main.js": "/react-appsearch-compo-viewer.dev/static/js/main.0682e8cc.js",
     "index.html": "/react-appsearch-compo-viewer.dev/index.html",
     "static/media/searchUi.svg": "/react-appsearch-compo-viewer.dev/static/media/searchUi.d7ed59962de91583ebc915da3bf17c18.svg",
-    "main.a41da17e.css.map": "/react-appsearch-compo-viewer.dev/static/css/main.a41da17e.css.map",
-    "main.a4c5ba6f.js.map": "/react-appsearch-compo-viewer.dev/static/js/main.a4c5ba6f.js.map"
+    "main.ec28b302.css.map": "/react-appsearch-compo-viewer.dev/static/css/main.ec28b302.css.map",
+    "main.0682e8cc.js.map": "/react-appsearch-compo-viewer.dev/static/js/main.0682e8cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.a41da17e.css",
-    "static/js/main.a4c5ba6f.js"
+    "static/css/main.ec28b302.css",
+    "static/js/main.0682e8cc.js"
   ]
 }
