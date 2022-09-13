@@ -1,0 +1,32 @@
+{
+  "engineName": "merge-canton-thales-qpm-toutella-ready",
+  "endpointBase": "https://entreprise-search-bot.recf.elk.si2m.tec",
+  "searchKey": "WWpidmtvSUJ4R3dEWU9ZbnBiUGg6XzlJSGtvZkNUSHlKWEdOTVlKUkthZw==",
+  "resultFields": [
+    "extension",
+    "grand_compte",
+    "author",
+    "document",
+    "creation_date",
+    "origine",
+    "title",
+    "char_size",
+    "nps_link",
+    "content",
+    "modification_date",
+    "page",
+    "facet",
+    "id"
+  ],
+  "sortFields": [
+    "facet"
+  ],
+  "facets": [
+    "grand_compte",
+    "origine",
+    "creation_date",
+    "modification_date"
+  ],
+  "titleField": "title",
+  "urlField": "nps_link"
+}
