@@ -32,12 +32,8 @@ const config = {
   searchQuery: {
     search_fields: {
       // section search field for searchbar
-      title: {
-        weight: 1
-      },
-      content: {
-        weight: 1
-      }
+      title: {},
+      content: {}
     },
     result_fields: {
       // section result field
